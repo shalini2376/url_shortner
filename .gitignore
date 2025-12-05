@@ -7,6 +7,3 @@ venv/
 .vscode/
 .idea/
 .pytest_cache/
-
-README.md
-requirements.txt
